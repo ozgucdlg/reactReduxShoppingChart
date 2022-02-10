@@ -3,7 +3,7 @@ import "./styles.css";
 import { Route } from "react-router-dom";
 
 import Products from "./components/Products";
-import Cart from "./components/Cart";
+import Cart from "./components/Cart.js";
 
 import { data } from "./data";
 
